@@ -16,6 +16,8 @@ public class JoinLearn {
         // create a left pipe and right pipe before joining.
         Pipe leftPipe = new Pipe("leftPipe");
         Pipe rightPipe = new Pipe("rightPipe");
+
+        // You have to rename the common fields before using CoGroup.
         rightPipe = new Rename(rightPipe, new Fields("id"), new Fields("s_id"));
 
         // output pipe after join
