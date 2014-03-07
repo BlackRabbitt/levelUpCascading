@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0dd8a33-1dbf-43bf-b997-f4ccdb3718e6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/level2/BufferOperation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/level2/TestBufferOperation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/level2/bufferOperate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/level2.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/level1/JoinLearn.java" afterPath="$PROJECT_DIR$/src/main/java/level1/JoinLearn.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/level3/LineToWord.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/level3/TestLineToWord.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/level3.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="levelUpCascading.iws" />
@@ -71,41 +69,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BufferOperation.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/level2/BufferOperation.java">
+      <file leaf-file-name="TestLineToWord.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/level3/TestLineToWord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="847" selection-end="847" vertical-scroll-proportion="0.71653545" vertical-offset="195" max-vertical-offset="576">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bufferOperate.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/level2/bufferOperate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="5" selection-start="1392" selection-end="1392" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="738">
+            <state line="3" column="47" selection-start="95" selection-end="95" vertical-scroll-proportion="0.10236221" vertical-offset="15" max-vertical-offset="612">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestBufferOperation.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/level2/TestBufferOperation.java">
+      <file leaf-file-name="LineToWord.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/level3/LineToWord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="62" selection-start="794" selection-end="794" vertical-scroll-proportion="0.0" vertical-offset="213" max-vertical-offset="702">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JoinLearn.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/level1/JoinLearn.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="69" selection-start="622" selection-end="622" vertical-scroll-proportion="0.0" vertical-offset="83" max-vertical-offset="756">
+            <state line="26" column="0" selection-start="1038" selection-end="1038" vertical-scroll-proportion="0.0" vertical-offset="213" max-vertical-offset="702">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -144,6 +120,9 @@
         <option value="$PROJECT_DIR$/src/main/java/level2/BufferOperation.java" />
         <option value="$PROJECT_DIR$/src/test/java/level2/TestBufferOperation.java" />
         <option value="$PROJECT_DIR$/src/main/java/level2/bufferOperate.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/level3.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/level3/LineToWord.java" />
+        <option value="$PROJECT_DIR$/src/test/java/level3/TestLineToWord.java" />
       </list>
     </option>
   </component>
@@ -311,6 +290,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="level3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="levelUpCascading" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="levelUpCascading" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="level2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -382,6 +387,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="levelUpCascading" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="levelUpCascading" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="level3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -509,30 +540,7 @@
       <recent name="$PROJECT_DIR$/src/test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestBufferOperation.TestBuffer">
-    <configuration default="false" name="All in levelUpCascading" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="levelUpCascading" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="package" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestLineToWord.lineToWord">
     <configuration default="false" name="TestCopyFiles.knowTheBasicTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -602,6 +610,62 @@
       <option name="PACKAGE_NAME" value="level2" />
       <option name="MAIN_CLASS_NAME" value="level2.TestBufferOperation" />
       <option name="METHOD_NAME" value="TestBuffer" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestLineToWord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="level3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="levelUpCascading" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="level3" />
+      <option name="MAIN_CLASS_NAME" value="level3.TestLineToWord" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestLineToWord.lineToWord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="level3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="levelUpCascading" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="level3" />
+      <option name="MAIN_CLASS_NAME" value="level3.TestLineToWord" />
+      <option name="METHOD_NAME" value="lineToWord" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -850,18 +914,20 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.All in levelUpCascading" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestCopyFiles.knowTheBasicTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestJoin.testJoin" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestBufferOperation.TestBuffer" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestCopyFiles.knowTheBasicTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestJoin.testJoin" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestBufferOperation.TestBuffer" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestLineToWord" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestLineToWord.lineToWord" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestBufferOperation.TestBuffer" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestJoin.testJoin" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestCopyFiles.knowTheBasicTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.All in levelUpCascading" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestLineToWord.lineToWord" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestLineToWord" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestBufferOperation.TestBuffer" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestJoin.testJoin" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestCopyFiles.knowTheBasicTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -896,7 +962,7 @@
       <workItem from="1394178063878" duration="45000" />
       <workItem from="1394178127943" duration="14000" />
       <workItem from="1394178532168" duration="2909000" />
-      <workItem from="1394181508647" duration="2699000" />
+      <workItem from="1394181508647" duration="3437000" />
     </task>
     <task id="LOCAL-00001" summary="level1 equivalent to SQL Join has been written.">
       <created>1394181673022</created>
@@ -906,7 +972,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6409000" />
+    <option name="totallyTimeSpent" value="7147000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="27" width="1368" height="742" extended-state="6" />
@@ -982,7 +1048,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="96" selection-start="937" selection-end="937" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="720">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1009,13 +1075,6 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="74" column="49" selection-start="2661" selection-end="2661" vertical-scroll-proportion="0.69553804" vertical-offset="1067" max-vertical-offset="1980">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/level1-2.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="5" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="162">
           <folding />
         </state>
       </provider>
@@ -1059,7 +1118,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="69" selection-start="622" selection-end="622" vertical-scroll-proportion="0.0" vertical-offset="83" max-vertical-offset="756">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1068,7 +1127,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="44" selection-start="361" selection-end="513" vertical-scroll-proportion="0.55574614" vertical-offset="0" max-vertical-offset="583">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1087,15 +1146,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/level2/TestBufferOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="62" selection-start="794" selection-end="794" vertical-scroll-proportion="0.0" vertical-offset="213" max-vertical-offset="702">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/level2/bufferOperate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="42" column="5" selection-start="1392" selection-end="1392" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="738">
@@ -1105,10 +1155,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/level2/BufferOperation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="847" selection-end="847" vertical-scroll-proportion="0.71653545" vertical-offset="195" max-vertical-offset="576">
+        <state line="26" column="0" selection-start="847" selection-end="847" vertical-scroll-proportion="0.0" vertical-offset="141" max-vertical-offset="576">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/level1-2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="5" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="162">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/level3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="93" selection-start="233" selection-end="233" vertical-scroll-proportion="0.09448819" vertical-offset="0" max-vertical-offset="381">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/level2/TestBufferOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="58" selection-start="513" selection-end="542" vertical-scroll-proportion="0.0" vertical-offset="213" max-vertical-offset="702">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/level3/LineToWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="1038" selection-end="1038" vertical-scroll-proportion="0.0" vertical-offset="213" max-vertical-offset="702">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/Outlevel3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="864">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/level3/TestLineToWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="47" selection-start="95" selection-end="95" vertical-scroll-proportion="0.10236221" vertical-offset="15" max-vertical-offset="612">
+          <folding />
         </state>
       </provider>
     </entry>
