@@ -1,0 +1,2 @@
+This is a basic test file for level 0 Cascading.
+This test will copy the file from source to sink.
