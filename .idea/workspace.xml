@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0dd8a33-1dbf-43bf-b997-f4ccdb3718e6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/level4/TestWordCount.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/level4/wordCount.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="f0dd8a33-1dbf-43bf-b997-f4ccdb3718e6" name="Default" comment="" />
     <ignored path="levelUpCascading.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -71,7 +67,7 @@
       <file leaf-file-name="TestWordCount.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/level4/TestWordCount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="66" selection-start="568" selection-end="568" vertical-scroll-proportion="0.28346458" vertical-offset="198" max-vertical-offset="702">
+            <state line="20" column="26" selection-start="634" selection-end="634" vertical-scroll-proportion="0.42519686" vertical-offset="198" max-vertical-offset="702">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,7 +80,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state line="17" column="112" selection-start="582" selection-end="582" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="594">
               <folding>
-                <element signature="imports" expanded="true" />
+                <marker date="1394185568615" expanded="true" signature="301:872" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -890,7 +886,7 @@
       <workItem from="1394178063878" duration="45000" />
       <workItem from="1394178127943" duration="14000" />
       <workItem from="1394178532168" duration="2909000" />
-      <workItem from="1394181508647" duration="3840000" />
+      <workItem from="1394181508647" duration="4599000" />
     </task>
     <task id="LOCAL-00001" summary="level1 equivalent to SQL Join has been written.">
       <created>1394181673022</created>
@@ -900,7 +896,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7550000" />
+    <option name="totallyTimeSpent" value="8309000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="27" width="1368" height="742" extended-state="6" />
@@ -927,7 +923,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32952693" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1030,7 +1026,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="8" selection-start="399" selection-end="891" vertical-scroll-proportion="0.44425386" vertical-offset="29" max-vertical-offset="666">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1108,7 +1104,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="58" selection-start="513" selection-end="542" vertical-scroll-proportion="0.0" vertical-offset="213" max-vertical-offset="702">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1142,7 +1138,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="112" selection-start="582" selection-end="582" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
           <folding>
-            <element signature="imports" expanded="true" />
+            <marker date="1394185568615" expanded="true" signature="301:872" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -1159,7 +1155,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/level4/TestWordCount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="66" selection-start="568" selection-end="568" vertical-scroll-proportion="0.28346458" vertical-offset="198" max-vertical-offset="702">
+        <state line="20" column="26" selection-start="634" selection-end="634" vertical-scroll-proportion="0.42519686" vertical-offset="198" max-vertical-offset="702">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
